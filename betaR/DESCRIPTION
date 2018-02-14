@@ -1,0 +1,16 @@
+Package: betaR
+Type: Package
+Title: Functions for Bayesian Beta Binomial Modeling
+Version: 0.1.0
+Author: Carter Allen
+Maintainer: Carter Allen <carter.allen12@gmail.com>
+Description: Useful functions for calculating probabilities and graphing beta 
+  and beta binomial distributions that commonly arise in Bayesian modeling of
+  data.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports:
+  ggplot2,
+  tibble
+RoxygenNote: 6.0.1
